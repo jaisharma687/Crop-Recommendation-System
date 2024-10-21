@@ -8,7 +8,7 @@ app = Flask(__name__)
 app.secret_key = "Teams"
 
 # Update the MODEL_PATH to point to your saved model
-MODEL_PATH = os.path.join(os.path.dirname(__file__), '..', 'notebook', 'ExtraTreesClassifier.pkl')
+MODEL_PATH = os.path.join(os.path.dirname(__file__), 'ExtraTreesClassifier.pkl')
 
 @app.route("/")
 def home():
