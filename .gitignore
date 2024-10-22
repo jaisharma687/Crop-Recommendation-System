@@ -50,3 +50,5 @@ rsconnect/
 
 # Ignore virtual environment folder
 myenv/
+
+.vercel

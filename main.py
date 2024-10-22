@@ -65,4 +65,4 @@ def determine_level(value, levels):
     return "Unknown"
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
