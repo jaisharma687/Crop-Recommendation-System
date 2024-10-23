@@ -1,3 +1,8 @@
+### Contributors:
+- Jai Sharma [github/jaisharma687](https://github.com/jaisharma687)
+- Siddhant Bhagat [github/Siddhantbg](https://github.com/Siddhantbg)
+- Kashish Tayal [github/KASHISH1412](https://github.com/KASHISH1412)
+
 # Crop Recommendation System Using AWS & Machine Learning
 
 This repository contains the code and resources for the *Crop Recommendation System deployed on AWS* project. The system uses machine learning algorithms to recommend the most suitable crops based on soil parameters such as temperature, moisture, pH, and nutrient levels (Nitrogen, Phosphorus, Potassium).
