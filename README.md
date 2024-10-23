@@ -41,3 +41,8 @@ As the global population grows, sustainable and efficient food production become
 - *Deployed on Render*: https://aws-paper.onrender.com/ (Alternative if AWS Instance Stops working)
 
 ## Website ScreenShots:
+![Homepage Screenshot](ScreenShots/homepage.jpg)
+
+![Homepage Inputs Screenshot](ScreenShots/homepage_inputs.jpg)
+
+![Results Screenshot](ScreenShots/results.jpg)
