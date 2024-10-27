@@ -52,3 +52,6 @@ rsconnect/
 myenv/
 
 .vercel
+/Base Models/Models/*
+
+/Hybrid Models/Models/*
