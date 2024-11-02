@@ -55,3 +55,5 @@ myenv/
 /Base Models/Models/*
 
 /Hybrid Models/Models/*
+
+notebook/catboost_info/*
