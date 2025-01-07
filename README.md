@@ -41,9 +41,6 @@ As the global population grows, sustainable and efficient food production become
 12. *Decision Tree*: A tree-structured classifier that splits data into branches based on feature values.
 13. *Random Forest*: An ensemble method that constructs multiple decision trees and merges them to get a more accurate and stable prediction.
 
-## Website Links:
-- *Deployed on Render*: https://aws-paper.onrender.com/
-
 ## Website ScreenShots:
 ![Homepage Screenshot](ScreenShots/homepage.jpg)
 
