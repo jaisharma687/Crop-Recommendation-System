@@ -42,8 +42,7 @@ As the global population grows, sustainable and efficient food production become
 13. *Random Forest*: An ensemble method that constructs multiple decision trees and merges them to get a more accurate and stable prediction.
 
 ## Website Links:
-- *Deployed on AWS*: http://www.croprecommendatation.shop/login
-- *Deployed on Render*: https://aws-paper.onrender.com/ (Alternative if AWS Instance Stops working)
+- *Deployed on Render*: https://aws-paper.onrender.com/
 
 ## Website ScreenShots:
 ![Homepage Screenshot](ScreenShots/homepage.jpg)
