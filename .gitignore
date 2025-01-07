@@ -57,3 +57,4 @@ myenv/
 /Hybrid Models/Models/*
 
 notebook/catboost_info/*
+.DS_Store
