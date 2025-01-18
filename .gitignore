@@ -58,3 +58,4 @@ myenv/
 
 notebook/catboost_info/*
 .DS_Store
+__pycache__/
