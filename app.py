@@ -5,7 +5,7 @@ import pickle
 import os
 
 app = Flask(__name__)
-app.secret_key = "Teams"
+app.secret_key = os.environ.get("SECRET_KEY", "Teams")
 
 # Update the MODEL_PATH to point to your saved model
 MODEL_PATH = os.path.join(os.path.dirname(__file__), 'bestModel.pkl')
